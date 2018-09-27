@@ -80,7 +80,7 @@
     font-weight: 500px;
     font-size: 80px;
     font-family: sans-serif;
-    padding-left: 50px;
+    padding-left: 55px;
     padding-right: 190px;
     padding-bottom: 160px;
     color: midnightblue;
@@ -116,7 +116,6 @@
     border: 10px solid skyblue;
     border-bottom-color: midnightblue;
     background-color: skyblue;
-    color: white;
 }
 .lil{
     margin-right: 50px;
